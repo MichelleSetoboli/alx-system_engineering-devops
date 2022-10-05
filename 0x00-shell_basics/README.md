@@ -1,1 +1,1 @@
-script that changes the home directory of the user's home directory
+current irectory contents in long format
