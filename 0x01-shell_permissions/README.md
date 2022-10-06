@@ -1,1 +1,1 @@
- a script that sets the mode of the file hello to -rwxr-x-wx
+a script that adds execution permission to the owner, the group owner and the other users, to the file hello
